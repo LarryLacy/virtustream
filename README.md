@@ -27,6 +27,8 @@ pipenv --three
 ```
 7. install Flask
 
+Please refer to https://auth0.com/blog/developing-restful-apis-with-python-and-flask/ for detailed information on installing the proper environment.
+
 ## Usage:
 In the virtustream directory, start Flask:
 ```
@@ -46,7 +48,9 @@ https://auth0.com/blog/developing-restful-apis-with-python-and-flask/
 Other influences
 
 https://www.w3schools.com/python/python_while_loops.asp
+
 https://www.digitalocean.com/community/tutorials/how-to-do-math-in-python-3-with-operators
+
 http://hplgit.github.io/primer.html/doc/pub/looplist/._looplist-bootstrap006.html
 
 ## Background
