@@ -40,14 +40,17 @@ curl -X POST  http://localhost:5000/fib?INP=8
 
 ## Credits, influences:
 This implementation relies most heavily on:
+
 https://auth0.com/blog/developing-restful-apis-with-python-and-flask/
 
 Other influences
+
 https://www.w3schools.com/python/python_while_loops.asp
 https://www.digitalocean.com/community/tutorials/how-to-do-math-in-python-3-with-operators
 http://hplgit.github.io/primer.html/doc/pub/looplist/._looplist-bootstrap006.html
 
 ## Background
-	This is my first RESTful web service and the first time I've worked with Flask. It is the second Python script I've ever written.  I initially wrote this script in bash.  The original script is fib.sh in the fibonacci directory.  Once I had the logic, I converted it to Python.  Having never worked with Flask before, it is important to note that bootstrap.sh is taken directly from the auth0 site listed above.  I've considered polishing this script but that would mean looking at other peoples versions, or asking one of my developer friends for help.  If I were to do either of those, it would not be an example of my work.  The intent of this work is to display my capability.  Because of that fact, it is important to me that this be an original work flaws and all. I recognise that it's not done the "Python" way. nor are there any security or coding "best practices". These are things I have yet to learn.
+
+This is my first RESTful web service and the first time I've worked with Flask. It is the second Python script I've ever written.  I initially wrote this script in bash.  The original script is fib.sh in the fibonacci directory.  Once I had the logic, I converted it to Python.  Having never worked with Flask before, it is important to note that bootstrap.sh is taken directly from the auth0 site listed above.  I've considered polishing this script but that would mean looking at other peoples versions, or asking one of my developer friends for help.  If I were to do either of those, it would not be an example of my work.  The intent of this work is to display my capability.  Because of that fact, it is important to me that this be an original work flaws and all. I recognise that it's not done the "Python" way. nor are there any security or coding "best practices". These are things I have yet to learn.
 
 
